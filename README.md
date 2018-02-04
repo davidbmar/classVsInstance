@@ -1,7 +1,7 @@
 # classVsInstance
 Python Examples on Class vs Instance
 # For details read: https://docs.python.org/3.5/tutorial/classes.html?highlight=instance#class-and-instance-variables
-
+# For a Java example read: https://www.hackerrank.com/challenges/30-class-vs-instance/tutorial
 
 Objective 
 In this challenge, we're going to learn about the difference between a class and an instance; because this is an Object Oriented concept, it's only enabled in certain languages. Check out the Tutorial tab for learning materials and an instructional video!
